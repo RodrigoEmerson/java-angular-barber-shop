@@ -5,13 +5,13 @@ ng g c clients/edit-client &&
 ng g c clients/components/client-form &&
 ng g c clients/components/client-table &&
 
-touch src/app/clients/client.models.ts &&
+touch src/app/clients/client.models.ts && 11111111111111111111111
 
 #schedules
 ng g c schedules/schedules-month &&
 ng g c schedules/components/schedule-calendar &&
 
-touch src/app/schedules/schedule.models.ts &&
+touch src/app/schedules/schedule.models.ts && 1111111111111111111111111111
 
 #commons components
 ng g c commons/components/card-header &&
